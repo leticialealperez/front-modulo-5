@@ -1,0 +1,87 @@
+#login{
+    background-image: url(../assets/img/bg-4.jpg);
+    background-size: cover;
+}
+
+.title-page{
+    font-family: 'Smooch', cursive;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.label-text-input{
+    color: white !important;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.color-primary{
+    color: #2874ee;
+}
+
+.color-secondary{
+    color: #170ac7;
+}
+
+.icon-detail{
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+header{
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px;
+    background-color: #ffffff;
+}
+
+.button-login{
+    border-radius: 10px;
+    background-color: #2874ee !important;
+    color: white !important;
+    width: 50%;
+    margin: 0 25%;
+}
+
+.button-login:hover, .buttom-default:hover{
+    background-color: #170ac7!important;
+    color: white !important;
+}
+
+.link-default{
+    color: #2874ee;
+    cursor: pointer;
+
+}
+
+.link-default:hover{
+    color: #170ac7;
+}
+
+.info{
+    background-color: #ffffff;
+    border-radius: 20px 20px 0px 0px;
+    padding: 20px 0px 0px;
+}
+
+.buttom-default{
+    border-radius: 10px;
+    background-color: #2874ee !important;
+    color: #ffffff !important;
+}
+
+.button-cancel{
+    border-radius: 10px;
+}
+
+#button-update{
+    display: none;
+}
+
+.logout{
+    min-width: 5rem !important;
+}
+
+.menu{
+    margin-right: 20px;
+}
